@@ -1,0 +1,12 @@
+# py缓存
+__pycache__
+
+# vscode和插件
+.vscode
+.VSC*
+
+#测试
+tests/*
+!tests/__init__.py
+!tests/get_bath.py
+!tests/get_hemb.py
